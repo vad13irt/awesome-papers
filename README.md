@@ -13,3 +13,8 @@ My own list of papers for certain Machine Learning &amp; Deep Learning topics
 # Natural Language Processing
 
 # Adversarial Learning
+
+- [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572), Ian J. Goodfellow, Jonathon Shlens, Christian Szegedy
+- [Adversarial Weight Perturbation Helps Robust Generalization](https://arxiv.org/abs/2004.05884), Dongxian Wu, Shu-tao Xia, Yisen Wang
+- [Virtual Adversarial Training: A Regularization Method for Supervised and Semi-Supervised Learning](https://arxiv.org/abs/1704.03976), Takeru Miyato, Shin-ichi Maeda, Masanori Koyama, Shin Ishii
+- [FreeLB: Enhanced Adversarial Training for Natural Language Understanding](https://arxiv.org/abs/1909.11764), Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Tom Goldstein, Jingjing Liu
